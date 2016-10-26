@@ -1,0 +1,56 @@
+body{
+	background-image: url("../images/BlueLeafPattern.jpg");
+}
+h1{
+	font-size: 28px;
+}
+.img{
+	width: 85px;
+	height: 85px;
+	margin-top: 5px;
+}
+.title{
+	padding: 10px 0 10px 0;
+	color: #ffffff;
+	
+	background-color: #808000;
+	
+	margin-bottom: 5px;
+}
+.directions{
+	padding: 30px;
+	background-color: green;
+	margin-bottom: 5px;
+}
+.compScore{
+	background-color: #00FF00;
+	padding: 30px;
+	height: 120px;
+	
+}
+.winLose{
+	background-color: #00FFFF;
+	padding: 30px;
+	margin-left: 5px;
+
+
+}
+.yourScore{
+	background-color: #008080;
+	padding: 30px;
+	margin: 5px 0 5px 0;
+	color: #ffffff;
+	
+
+}
+.numTotal{
+	background-color: #008080;
+	padding: 30px;
+	color: #ffffff;
+
+}
+.crystalImage {
+      width: 85px;
+      height: 85px;
+      margin-top: 5px;
+  }
